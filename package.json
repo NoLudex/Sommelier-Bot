@@ -1,0 +1,36 @@
+{
+  "name": "sommelier-bot",
+  "version": "1.0.0",
+  "description": "sommelier-bot for the final qualifying work",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NoLudex/Sommelier-Bot.git"
+  },
+  "keywords": [
+    "sommelier",
+    "bot",
+    "telegram",
+    "vk",
+    "api",
+    "rb-weex"
+  ],
+  "author": "RB Weex | Gleb & Ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NoLudex/Sommelier-Bot/issues"
+  },
+  "homepage": "https://github.com/NoLudex/Sommelier-Bot#readme",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "dotenv": "^16.4.7",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
