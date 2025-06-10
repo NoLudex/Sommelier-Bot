@@ -1,0 +1,35 @@
+[2025-06-09T08:17:06.428Z] [INFO] Bot is Launching...
+[2025-06-09T08:17:06.460Z] [INFO] Telegram - OK
+[2025-06-09T08:17:06.545Z] [ERROR] 
+[2025-06-09T08:17:22.023Z] [INFO] Bot is Launching...
+[2025-06-09T08:17:22.040Z] [INFO] Telegram - OK
+[2025-06-09T08:17:22.139Z] [INFO] MySQL ---- OK
+[2025-06-09T08:18:42.765Z] [INFO] @ystenk - "/start" Args: []
+[2025-06-09T08:18:53.505Z] [INFO] @ystenk - callback "recommend" Args: []
+[2025-06-09T08:18:53.698Z] [INFO] Recipe ID: 2,3,0
+[2025-06-09T08:18:53.709Z] [INFO] Favorite Names: Абсент Сауэр ,Молоко львицы
+[2025-06-09T08:18:59.260Z] [INFO] @ystenk - callback "recipes" Args: []
+[2025-06-09T08:19:02.991Z] [INFO] @ystenk - callback "choice" Args: ["category","absinthe"]
+[2025-06-09T08:19:03.821Z] [INFO] 1_2972 addFavorite recipes_1_2972 Last 4 category absinthe 3fc3e7b2db753bd61e5cb469deed1603 1
+[2025-06-09T08:19:04.386Z] [INFO] OpenAI error: Connection error.
+[2025-06-09T08:19:04.469Z] [ERROR] ETELEGRAM: 400 Bad Request: there is no text in the message to edit
+[2025-06-09T08:19:08.089Z] [INFO] @ystenk - callback "page" Args: ["next","list","1","2972","4","category","absinthe"]
+[2025-06-09T10:02:58.316Z] [INFO] @ystenk - callback "page" Args: ["next","list","2","2973","4","category","absinthe"]
+[2025-06-09T10:03:00.028Z] [INFO] @ystenk - callback "page" Args: ["next","list","3","2973","4","category","absinthe"]
+[2025-06-09T10:03:01.320Z] [INFO] @ystenk - callback "recipes" Args: ["4","2973"]
+[2025-06-09T10:03:01.553Z] [ERROR] ETELEGRAM: 400 Bad Request: message to delete not found
+[2025-06-09T10:03:07.984Z] [INFO] @ystenk - "/start" Args: []
+[2025-06-09T10:03:10.833Z] [INFO] @ystenk - callback "profile" Args: []
+[2025-06-09T10:03:43.877Z] [INFO] @ystenk - callback "sub" Args: ["on"]
+[2025-06-09T10:03:44.851Z] [INFO] @ystenk - callback "sub" Args: ["off"]
+[2025-06-09T10:03:45.758Z] [INFO] @ystenk - callback "sub" Args: ["on"]
+[2025-06-09T10:03:46.441Z] [INFO] @ystenk - callback "sub" Args: ["off"]
+[2025-06-09T10:03:47.538Z] [INFO] @ystenk - callback "vip" Args: []
+[2025-06-09T10:04:09.092Z] [INFO] @ystenk - callback "main" Args: []
+[2025-06-09T10:04:22.041Z] [INFO] @ystenk - callback "profile" Args: []
+[2025-06-09T10:04:35.106Z] [INFO] @ystenk - callback "vip" Args: []
+[2025-06-09T10:04:37.260Z] [INFO] @ystenk - Написал сообщение ["undefined"]
+[2025-06-09T10:04:52.975Z] [INFO] @ystenk - "/profile" Args: []
+[2025-06-09T10:04:52.975Z] [ERROR] messageId is not defined
+[2025-06-09T10:05:07.135Z] [INFO] @ystenk - callback "main" Args: []
+[2025-06-09T10:05:10.736Z] [INFO] @ystenk - callback "profile" Args: []
